@@ -9,7 +9,8 @@ The genome was processed using a standard de novo assembly and annotation workfl
 1. **Quality Control:** Raw reads were assessed using `FastQC` and trimmed/filtered using `fastp`.
 2. **De Novo Assembly:** Reads were assembled into contigs using `SPAdes`.
 3. **Structural Annotation:** Predicted genes and features were identified using `Prokka`.
-4. **Functional Annotation:** - **COGs:** Classified using `COGclassifier`.
+4. **Functional Annotation:**
+   - **COGs:** Classified using `COGclassifier`.
    - **Metabolic Pathways:** Annotated via `GhostKOALA` and mapped using `PathView` for KEGG pathway visualization.
   
 ### 🛠️ Bioinformatics Software Stack
