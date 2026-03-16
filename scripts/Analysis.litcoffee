@@ -1,5 +1,5 @@
 ### Download the Dataset
-fastq-dump https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10525457/SRR10525457
+fastq-dump SRR10525457
 ### Rename the downloaded files Read_1.fastq and Read_2.fastq
 
 ### Quality Control
