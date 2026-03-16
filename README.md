@@ -49,4 +49,9 @@ The functional annotations of the bacterial genome revealed the presence of gene
 #### Xylene
 ![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/ko00622.xylene.png?raw=true)
 #### Toluene
-![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/ko00623.toluene.png?raw=true)
+![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/ko00623.toluene.png?raw=true)  
+
+## Biological Insight
+The result of this bioinformatic analysis reveals that this bacterial strain can degrade a number of hydrocarbons. It can be used as a member of a consortium to degrade complex environmental pollutants such as, produced water and crude oil.
+
+This hypothesis should be validated in the lab, by growing the bacterium in media with these hydrocarbons as the only carbon source. 
