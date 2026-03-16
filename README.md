@@ -21,3 +21,16 @@ The genome was processed using a standard de novo assembly and annotation workfl
 | **Assembly** | `SPAdes` | v4.2.0 | De novo genome assembly |
 | **Annotation** | `Prokka` | v1.15.6 | Structural gene prediction |
 | **Metabolic** | `PathView` | v1.42.0 | KEGG pathway visualization |
+
+
+## 📝 Results
+
+| Metric | Value |
+| :--- | :--- |
+| **Organism** | *Modicisalibacter* sp. |
+| **Assembly Size** | 3.5mb |
+| **GC Content** | 67.25% |
+| **N50** | 145788 bp |
+| **Number of CDS** | 3234 | 
+| **rRNA** | 3 |
+| **tRNA** | 74 |
