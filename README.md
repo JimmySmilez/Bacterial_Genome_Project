@@ -39,3 +39,14 @@ The genome was processed using a standard de novo assembly and annotation workfl
 ## Metabolic Mapping
 ### Overview of the Metabolic Potential of the Bacterium based on COGs
 ![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/cog_count_barchart.png?raw=true)
+
+### Hydrocarbon-Degradation Atlas
+The functional annotations of the bacterial genome revealed the presence of genes coding for essential enzymes in metabolic pathways for the degradation of various hydrocarbons such as, benzoate, naphtalene, xylene and toluene. 
+#### Benzoate
+![image alt](
+#### Naphtalene
+![image alt](
+#### Xylene
+![image alt](
+#### Toluene
+![image alt](
