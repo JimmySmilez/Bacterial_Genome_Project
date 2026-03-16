@@ -29,7 +29,7 @@ The genome was processed using a standard de novo assembly and annotation workfl
 | Metric | Value |
 | :--- | :--- |
 | **Organism** | *Modicisalibacter* sp. |
-| **Assembly Size** | 3.5mb |
+| **Assembly Size** | 3.5 mb |
 | **GC Content** | 67.25% |
 | **N50** | 145788 bp |
 | **Number of CDS** | 3234 | 
@@ -43,10 +43,10 @@ The genome was processed using a standard de novo assembly and annotation workfl
 ### Hydrocarbon-Degradation Atlas
 The functional annotations of the bacterial genome revealed the presence of genes coding for essential enzymes in metabolic pathways for the degradation of various hydrocarbons such as, benzoate, naphtalene, xylene and toluene. 
 #### Benzoate
-![image alt](
+![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/ko00362.Benzoate.png?raw=true)
 #### Naphtalene
-![image alt](
+![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/ko00626.Napth.png?raw=true)
 #### Xylene
-![image alt](
+![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/ko00622.xylene.png?raw=true)
 #### Toluene
-![image alt](
+![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/ko00623.toluene.png?raw=true)
