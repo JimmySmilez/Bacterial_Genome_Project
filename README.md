@@ -25,6 +25,7 @@ The genome was processed using a standard de novo assembly and annotation workfl
 
 ## 📝 Results
 
+# General Overview
 | Metric | Value |
 | :--- | :--- |
 | **Organism** | *Modicisalibacter* sp. |
@@ -34,3 +35,7 @@ The genome was processed using a standard de novo assembly and annotation workfl
 | **Number of CDS** | 3234 | 
 | **rRNA** | 3 |
 | **tRNA** | 74 |
+
+# Metabolic Mapping
+# Overview of the Metabolic Potential of the Bacterium based on COGs
+![image alt](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/main/plots/cog_count_barchart.png?raw=true)
