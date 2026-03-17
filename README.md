@@ -26,11 +26,14 @@ The genome was processed using a standard de novo assembly and annotation workfl
 ### Run Locally
 To run the analysis locally on your machine:
 - First, download, create and activate the environment and dependencies using this file [environment.yaml](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/6bf9da9f5fb737fd5db5ddfdbaab3a02ec8917f1/scripts/environment.yaml)
+
 ```bash
 conda env create -f environment.yaml
 conda activate bacterial_genome
 
+
 - Download the bash script [analysis.sh](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/125bbdefa0b09b8c73d0bcc79c224d1f3ebcda96/scripts/analysis.sh)
+
 - Make it executable and run it on your command line terminal.
 
 ## 📝 Results
