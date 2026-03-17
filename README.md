@@ -34,6 +34,10 @@ conda activate bacterial_genome
 
 - Download the bash script [analysis.sh](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/125bbdefa0b09b8c73d0bcc79c224d1f3ebcda96/scripts/analysis.sh)
 - Make it executable and run it on your command line terminal.
+```bash
+chmod +x analysis.sh
+./analysis.sh
+``` 
 
 ## 📝 Results
 
