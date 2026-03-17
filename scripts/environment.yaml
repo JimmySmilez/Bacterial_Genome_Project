@@ -1,0 +1,16 @@
+name: bacterial_genome
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - sra-tools        # for fasterq-dump
+  - fastp
+  - fastqc
+  - spades
+  - quast
+  - prokka
+  - python=3.9       # ensures compatibility
+  - pip
+  - pip:
+    - cogclassifier  # Use pip for tools not always in conda
