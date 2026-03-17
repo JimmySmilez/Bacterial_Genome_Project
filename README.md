@@ -23,6 +23,11 @@ The genome was processed using a standard de novo assembly and annotation workfl
 | **Metabolic** | `PathView` | v1.42.0 | KEGG pathway visualization |
 
 
+### Run Locally
+To run the analysis locally on your machine:
+- Download the bash script [analysis.sh](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/125bbdefa0b09b8c73d0bcc79c224d1f3ebcda96/scripts/analysis.sh)
+- Mmake it executable and run it on your command line terminal.
+
 ## 📝 Results
 
 ### General Overview
