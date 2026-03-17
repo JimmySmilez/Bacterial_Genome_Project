@@ -29,11 +29,9 @@ To run the analysis locally on your machine:
 
 ```bash
 conda env create -f environment.yaml
-conda activate bacterial_genome
-
+conda activate bacterial_genome ```
 
 - Download the bash script [analysis.sh](https://github.com/JimmySmilez/Bacterial_Genome_Project/blob/125bbdefa0b09b8c73d0bcc79c224d1f3ebcda96/scripts/analysis.sh)
-
 - Make it executable and run it on your command line terminal.
 
 ## 📝 Results
