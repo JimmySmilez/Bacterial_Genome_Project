@@ -1,6 +1,7 @@
 # Hydrocarbon-Degrading Bacterium: De Novo Genome Assembly & Metabolic Profiling
 ## 📊 Data Acquisition
 The raw reads that were utilized in this project were obtained from NCBI SRA with accession number SRR10525457. The study was originally published by Ajagbe et al. 2025 (https://pubmed.ncbi.nlm.nih.gov/39714141/). 
+Raw data (SRR10525457) is not hosted here due to size. The script handles the download automatically via `fasterq-dump`.   
 
 ## 🧬 Analysis Pipeline
 
